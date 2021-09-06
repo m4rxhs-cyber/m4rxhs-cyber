@@ -1,4 +1,4 @@
-  <h3 align=""> <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="49px"> Fuking World! 🌍☠ </h3> 
+  <h3 align=""> <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="49px"> Hello World! 🌍☠ </h3> 
   
 
 ##
