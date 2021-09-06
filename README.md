@@ -6,7 +6,7 @@
 - 👾 My Hobbies: Programming💻 - Bug hunting🏴‍☠️ - Hacking💀 - Play games🎮                                                               
 ##
  <div>
-  <a href="https://github.com/m4rxhs-cyber">
+  <a href="https://github.com/m4rxhs-cyber?tab=repositories">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rxhs-cyber&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
