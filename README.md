@@ -1,4 +1,4 @@
-  <h3 align=""> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Fuking World! 🌍 </h3> 
+  <h3 align=""> <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="40px"> Fuking World! 🌍☠ </h3> 
   
 
 ##
@@ -22,7 +22,7 @@
    <img align="center" alt="M4rxhs-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    <img align="center" alt="M4rxhs-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-  <img align="right" alt="M4rxhs-gif" src="https://media.giphy.com/media/GuRuLWOGo0CI/giphy.gif">
+  <img align="right" alt="M4rxhs-gif" src="https://media.giphy.com/media/GuRuLWOGo0CI/giphy.gif" width="250px">
 </div>
   
  ##
