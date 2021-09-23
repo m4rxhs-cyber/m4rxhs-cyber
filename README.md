@@ -10,7 +10,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rxhs-cyber&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-    ## Languages and features that I'm currently learning and have already learned
+   ## Languages and features that I'm currently learning and have already learned
 
   <div style="display: inline_block"><br>
    <img align="center" alt="M4rxhs-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
