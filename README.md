@@ -7,7 +7,7 @@
 ##
  <div>
   <a href="https://youtu.be/dQw4w9WgXcQ">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rxhs-cyber&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rxhs-cyber&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
    ## Languages and features that I'm currently learning and have already learned
