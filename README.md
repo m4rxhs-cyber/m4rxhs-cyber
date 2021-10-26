@@ -8,7 +8,7 @@
   
 ##
 
-   ## Languages and features that I'm currently learning and have already learned
+  <h2> Languages and features that I'm currently learning and have already learned </h2> 
 
   <div style="display: inline_block"><br>
    <img align="center" alt="M4rxhs-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -24,7 +24,7 @@
 </div>
   
  ##
- <h3 align=""> 🤝🏻 Connect with me </h3> 
+ <h2 align=""> 🤝🏻 Connect with me </h2> 
 <div> 
     <a href = "mailto:m4rxhs_cyber@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/neemias-sales-054926203/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
