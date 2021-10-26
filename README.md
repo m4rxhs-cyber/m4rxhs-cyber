@@ -34,5 +34,3 @@
 </div>
   
 ##
-
-![Snake animation](https://github.com/m4rxhs-cyber/m4rxhs-cyber/blob/output/github-contribution-grid-snake.svg)
