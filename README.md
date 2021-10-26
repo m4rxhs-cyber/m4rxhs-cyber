@@ -8,9 +8,9 @@
   
 ##
 
-  <h2> Languages and features that I'm currently learning and have already learned </h2> 
-
-  <div style="display: inline_block"><br>
+  ## <h1> Languages and features that I'm currently learning and have already learned </h1> 
+  
+  <div style="display: inline_block"><br>    
    <img align="center" alt="M4rxhs-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
    <img align="center" alt="M4rxhs-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    
