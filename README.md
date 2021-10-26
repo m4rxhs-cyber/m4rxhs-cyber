@@ -1,15 +1,13 @@
-  <h3 align=""> <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="49px"> Hello World! 🌍☠ </h3> 
-  
+  <h1 align="center"> Hello World! 🌍☠ </h1> 
+
+<img height="500em" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="gif">
 
 ##
-- 📖 I’m a Systems Anality a student at <a href = "https://unilavras.edu.br/">Lavras's University Center<a>
-- 👾 My Hobbies: Programming💻 - Bug hunting🏴‍☠️ - Hacking💀 - Play games🎮                                                               
-##
- <div>
-  <a href="https://youtu.be/dQw4w9WgXcQ">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rxhs-cyber&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+<h3> - 📖 I’m a Systems Anality a student at <a href = "https://unilavras.edu.br/">Lavras's University Center<a> </h3>
+<h3> - 👾 My Hobbies: Programming💻 - Bug hunting🏴‍☠️ - Hacking💀 - Play games🎮 </h3>      
   
+##
+
    ## Languages and features that I'm currently learning and have already learned
 
   <div style="display: inline_block"><br>
@@ -22,7 +20,7 @@
    <img align="center" alt="M4rxhs-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    <img align="center" alt="M4rxhs-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-  <img align="right" alt="M4rxhs-gif" src="https://media.giphy.com/media/GuRuLWOGo0CI/giphy.gif" width="250px">
+  <img align="right" alt="M4rxhs-gif" src="https://media.giphy.com/media/1iolSlaAo1Sb7pIXTr/giphy.gif" width="250px">
 </div>
   
  ##
