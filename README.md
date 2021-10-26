@@ -3,7 +3,7 @@
 <img height="500em" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="gif">
 
 ##
-<h3> - 📖 I’m a Systems Anality student at <a href = "https://unilavras.edu.br/">Lavras's University Center<a> </h3>
+<h3> - 📖 I am a student of Systems Analysist at <a href = "https://unilavras.edu.br/">Lavras's University Center<a> </h3>
 <h3> - 👾 My Hobbies: Programming💻 - Bug hunting🏴‍☠️ - Hacking💀 - Play games🎮 </h3>      
   
 ##
