@@ -1,4 +1,9 @@
-  <h1 align="center"> Hello World! 🌍☠ </h1> 
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=6024B8&lines=Hello+World!+%F0%9F%8C%8D%E2%98%A0;I'm+Backend+Developer%F0%9F%91%BE;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+
+<br>
+
+<p /> 
 
 <img height="500em" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="gif">
 
