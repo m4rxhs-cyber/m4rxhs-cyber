@@ -26,7 +26,7 @@
    <img align="center" alt="M4rxhs-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    <img align="center" alt="M4rxhs-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-  <img align="right" alt="M4rxhs-gif" src="https://media.giphy.com/media/1iolSlaAo1Sb7pIXTr/giphy.gif" width="250px">
+  <img align="right" alt="M4rxhs-gif" src="https://media.giphy.com/media/1iolSlaAo1Sb7pIXTr/giphy.gif" width="150px">
 </div>
   
  ##
