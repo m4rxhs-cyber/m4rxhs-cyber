@@ -9,7 +9,7 @@
 
 ##
 <h3> - 📖 I'm a Systems Analysis student at <a href = "https://unilavras.edu.br/">Lavras's University Center<a> </h3>
-  <h3> - 💻 I'm Backend Developer </h3>
+  <h3> - 💻 I'm Software Tester, Quality Analyst and Cyber Security Enthusiast </h3>
 <h3> - 👾 My Hobbies: Programming💻 - Bug hunting🏴‍☠️ - Hacking💀 - Play games🎮 </h3>      
   
 ##
