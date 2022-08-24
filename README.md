@@ -14,18 +14,24 @@
   
 ##
 
-  ## <h1> Languages and features that I'm currently learning and have already learned </h1> 
+  ## <h1> Languages and technologies that I'm currently learning and have already learned </h1> 
   
   <div style="display: inline_block"><br>    
    <img align="center" alt="M4rxhs-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-   <img align="center" alt="M4rxhs-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   
-   <img align="center" alt="M4rxhs-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="M4rxhs-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="M4rxhs-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    <img align="center" alt="M4rxhs-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+   <img align="center" alt="M4rxhs-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="M4rxhs-php" height="80" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img align="center" alt="M4rxhs-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+   <img align="center" alt="M4rxhs-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="M4rxhs-mysql" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="M4rxhs-sql" height="80" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+   <img align="center" alt="M4rxhs-jquery" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+   <img align="center" alt="M4rxhs-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="M4rxhs-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
+   
+          
+          
+          
   <img align="right" alt="M4rxhs-gif" src="https://media.giphy.com/media/1iolSlaAo1Sb7pIXTr/giphy.gif" width="150px">
 </div>
   
