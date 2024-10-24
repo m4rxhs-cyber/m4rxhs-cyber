@@ -39,7 +39,7 @@
  <h2 align=""><a href="https://linktr.ee/m4rxhs_cyber"> 🤝🏻 Connect with me </a> </h2> 
 <div> 
     <a href = "mailto:m4rxhs_cyber@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/neemias-sales-054926203/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/neemias-sales/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "https://www.instagram.com/m4rxhs_cyber/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
